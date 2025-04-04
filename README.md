@@ -14,7 +14,7 @@ This is a simple content-based recommendation system built using Python and Flas
 - Flask
 - scikit-learn
 - Pandas
-- HTML (for frontend templates)
+- HTML 
 
 # How to Run:
 
@@ -34,6 +34,11 @@ python -m app.app
 ## Open in browser
 http://127.0.0.1:5000
 
+## 📷 Screenshots
 
+### 🏠 Home Page
+![Homepage png](https://github.com/user-attachments/assets/e04572e1-3ee1-4c09-adc0-f6ad2e6905e4)
+### 📊 Results Page
+![Resultpage png](https://github.com/user-attachments/assets/49b98ebc-d79d-457d-b80d-ad64ff90574d)
 
 
