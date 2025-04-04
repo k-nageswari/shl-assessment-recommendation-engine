@@ -34,7 +34,7 @@ python -m app.app
 ## Open in browser
 http://127.0.0.1:5000
 
-## 📷 Screenshots
+## 📷 Preview
 
 ### 🏠 Home Page
 ![Homepage png](https://github.com/user-attachments/assets/e04572e1-3ee1-4c09-adc0-f6ad2e6905e4)
